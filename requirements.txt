@@ -1,0 +1,9 @@
+flask
+numpy
+pandas
+joblib
+scikit-learn
+tensorflow-cpu
+opencv-python-headless
+pillow
+reportlab
